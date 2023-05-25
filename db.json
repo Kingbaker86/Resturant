@@ -1,0 +1,53 @@
+{
+"Resturants":[
+    {
+        "id": "1",
+        "name": "Bella Italia",
+        "cuisine": "Italian",
+        "location": "New York",
+        "ratings": "4.5",
+        "num_of_reviews": "1350",
+        "top_dish": "Pasta Carbonara",
+        "phone_number": "(123) 456-7890",
+        "working_hours": "10:00 AM - 10:00 PM",
+        "website": "www.bellaitalia.com"
+    },
+    {
+        "id": "2",
+        "name": "Café de Paris",
+        "cuisine": "French",
+        "location": "Paris",
+        "ratings": "4.8",
+        "num_of_reviews": "980",
+        "top_dish": "Ratatouille",
+        "phone_number": "(321) 654-0987",
+        "working_hours": "9:00 AM - 11:00 PM",
+        "website": "www.cafedeparis.com"
+    },
+    {
+        "id": "3",
+        "name": "Taste of Tokyo",
+        "cuisine": "Japanese",
+        "location": "Tokyo",
+        "ratings": "4.7",
+        "num_of_reviews": "1765",
+        "top_dish": "Sushi Platter",
+        "phone_number": "(231) 789-4560",
+        "working_hours": "11:00 AM - 11:00 PM",
+        "website": "www.tasteoftokyo.com"
+    },
+    {
+        "id": "4",
+        "name": "Spicy Mumbai",
+        "cuisine": "Indian",
+        "location": "Mumbai",
+        "ratings": "4.6",
+        "num_of_reviews": "1500",
+        "top_dish": "Butter Chicken",
+        "phone_number": "(111) 222-3333",
+        "working_hours": "11:00 AM - 10:00 PM",
+        "website": "www.spicymumbai.com"
+    }
+]
+
+}
